@@ -1,0 +1,15 @@
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-6\SumExcludingMainDiagonal\bin\Debug\net7.0\SumExcludingMainDiagonal.exe
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-6\SumExcludingMainDiagonal\bin\Debug\net7.0\SumExcludingMainDiagonal.deps.json
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-6\SumExcludingMainDiagonal\bin\Debug\net7.0\SumExcludingMainDiagonal.runtimeconfig.json
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-6\SumExcludingMainDiagonal\bin\Debug\net7.0\SumExcludingMainDiagonal.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-6\SumExcludingMainDiagonal\bin\Debug\net7.0\SumExcludingMainDiagonal.pdb
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-6\SumExcludingMainDiagonal\obj\Debug\net7.0\SumExcludingMainDiagonal.csproj.AssemblyReference.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-6\SumExcludingMainDiagonal\obj\Debug\net7.0\SumExcludingMainDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-6\SumExcludingMainDiagonal\obj\Debug\net7.0\SumExcludingMainDiagonal.AssemblyInfoInputs.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-6\SumExcludingMainDiagonal\obj\Debug\net7.0\SumExcludingMainDiagonal.AssemblyInfo.cs
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-6\SumExcludingMainDiagonal\obj\Debug\net7.0\SumExcludingMainDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-6\SumExcludingMainDiagonal\obj\Debug\net7.0\SumExcludingMainDiagonal.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-6\SumExcludingMainDiagonal\obj\Debug\net7.0\refint\SumExcludingMainDiagonal.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-6\SumExcludingMainDiagonal\obj\Debug\net7.0\SumExcludingMainDiagonal.pdb
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-6\SumExcludingMainDiagonal\obj\Debug\net7.0\SumExcludingMainDiagonal.genruntimeconfig.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-6\SumExcludingMainDiagonal\obj\Debug\net7.0\ref\SumExcludingMainDiagonal.dll
